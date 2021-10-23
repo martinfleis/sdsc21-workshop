@@ -8,3 +8,4 @@ dependencies:
   - clustergram
   - bokeh
   - scikit-learn
+  - geopy
