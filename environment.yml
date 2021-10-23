@@ -1,4 +1,4 @@
-name: stable
+name: sdsc
 channels:
   - conda-forge
 dependencies:
@@ -9,3 +9,4 @@ dependencies:
   - bokeh
   - scikit-learn
   - geopy
+  - ipywidgets
